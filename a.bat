@@ -1,3 +1,3 @@
 @echo off
-start explorer.exe
+start cmd.exe
 exit
