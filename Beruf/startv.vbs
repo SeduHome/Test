@@ -1,2 +1,2 @@
 Set objShell = CreateObject("WScript.Shell")
-objShell.Run "estart.bat", 0, False
+objShell.Run "estart.bat", 0, True
